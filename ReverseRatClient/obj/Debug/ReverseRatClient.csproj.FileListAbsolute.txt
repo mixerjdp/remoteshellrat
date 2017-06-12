@@ -1,0 +1,65 @@
+C:\Documents and Settings\Administrator\Desktop\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Documents and Settings\Administrator\Desktop\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\Documents and Settings\Administrator\Desktop\rat\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+C:\Documents and Settings\Administrator\Desktop\rat\Client\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+C:\Documents and Settings\Administrator\Desktop\rat\Client\ReverseRatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\everything on pc\SOURCE\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Documents and Settings\Administrator\Desktop\everything on pc\SOURCE\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\Documents and Settings\Administrator\Desktop\everything on pc\SOURCE\rat\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+C:\Documents and Settings\Administrator\Desktop\everything on pc\SOURCE\rat\Client\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+C:\Documents and Settings\Administrator\Desktop\everything on pc\SOURCE\rat\Client\ReverseRatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\everything on pc\SOURCE\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\everything on pc\SOURCE\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\everything on pc\SOURCE\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Source For Rat\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Documents and Settings\Administrator\Desktop\Source For Rat\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\Documents and Settings\Administrator\Desktop\Source For Rat\rat\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+C:\Documents and Settings\Administrator\Desktop\Source For Rat\rat\Client\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+C:\Documents and Settings\Administrator\Desktop\Source For Rat\rat\Client\ReverseRatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Source For Rat\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Source For Rat\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Source For Rat\rat\Client\ReverseRatClient\obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
+D:\sw\ClientServer\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+D:\sw\ClientServer\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+D:\sw\ClientServer\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+D:\sw\ClientServer\Client\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+D:\sw\ClientServer\Client\ReverseRatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\sw\ClientServer\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Form1.resources
+D:\sw\ClientServer\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+D:\sw\ClientServer\Client\ReverseRatClient\obj\Debug\ResGen.read.1.tlog
+D:\sw\ClientServer\Client\ReverseRatClient\obj\Debug\ResGen.write.1.tlog
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ResGen.read.1.tlog
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ResGen.write.1.tlog
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe.config
+D:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Principal.resources
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe.config
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Principal.resources
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.csprojResolveAssemblyReference.cache
+C:\Programas\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe.config
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.pdb
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.csprojResolveAssemblyReference.cache
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Principal.resources
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.Properties.Resources.resources
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
+C:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.PanelDeControl.resources
+C:\Temp\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe.config
+C:\Temp\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Temp\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb

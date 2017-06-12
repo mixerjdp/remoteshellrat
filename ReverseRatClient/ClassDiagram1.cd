@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ReverseRatClient.Principal" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAABACgEAAAKBICBKABCEAy4FggAEGwJEMAAAAk=</HashCode>
+      <FileName>Principal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReverseRatClient.Globales" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAACACAAAAAAAAACAAAAAAJAAAAAAAAAABAA=</HashCode>
+      <FileName>Miscelanea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReverseRatClient.Miscelanea" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAEgkUgBEDRhBAAIEAQAASAAAABSAIEYAAEEQhI=</HashCode>
+      <FileName>Miscelanea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReverseRatClient.CantidadLetra" Collapsed="true">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgAAAAABAAAAAAAgAAAAAAgAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Miscelanea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

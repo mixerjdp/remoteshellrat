@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ReverseRatClient">
+</Property><Property Name="Archivo de la solución" Value="D:\sw\ClientServer\Client\ReverseRatClient.sln">
+</Property><Property Name="Date" Value="miércoles, 26 de enero de 2011">
+</Property><Property Name="Time" Value="21:36 p.m.">
+</Property><Property Name="Número de registro" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\ReverseRatClient.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="ReverseRatClient" Source="ReverseRatClient\ReverseRatClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ReverseRatClient.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ReverseRatClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ReverseRatClient" Source="ReverseRatClient\ReverseRatClient.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

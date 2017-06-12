@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ReverseRatClient.Form1.resources
+obj\Debug\ReverseRatClient.Properties.Resources.resources
+obj\Debug\ReverseRatClient.csproj.GenerateResource.Cache
+bin\Debug\ReverseRatClient.exe
+bin\Debug\ReverseRatClient.pdb
+obj\Debug\ReverseRatClient.exe
+obj\Debug\ReverseRatClient.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ReverseRatClient.Form1.resources
+obj\Release\ReverseRatClient.Properties.Resources.resources
+obj\Release\ReverseRatClient.csproj.GenerateResource.Cache
+bin\Release\ReverseRatClient.exe
+bin\Release\ReverseRatClient.pdb
+obj\Release\ReverseRatClient.exe
+obj\Release\ReverseRatClient.pdb
