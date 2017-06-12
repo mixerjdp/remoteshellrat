@@ -63,3 +63,6 @@ C:\sw\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.PanelDeC
 C:\Temp\RemoteShellRAT\Client\ReverseRatClient\bin\Debug\ReverseRatClient.exe.config
 C:\Temp\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.exe
 C:\Temp\RemoteShellRAT\Client\ReverseRatClient\obj\Debug\ReverseRatClient.pdb
+C:\Users\Juan\Source\Repos\Cliente\remoteshellrat\ReverseRatClient\bin\Debug\ReverseRatClient.exe.config
+C:\Users\Juan\Source\Repos\Cliente\remoteshellrat\ReverseRatClient\obj\Debug\ReverseRatClient.exe
+C:\Users\Juan\Source\Repos\Cliente\remoteshellrat\ReverseRatClient\obj\Debug\ReverseRatClient.pdb

@@ -8,8 +8,6 @@ namespace ReverseRatClient
     class Funciones
     {
       
-
-
         public string FormarCadena(DataGridView x)
         {
             string cadena = "";
